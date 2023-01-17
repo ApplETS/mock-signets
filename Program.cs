@@ -1,5 +1,3 @@
-using System.ServiceModel;
-using System.ServiceModel.Description;
 using Models;
 using SoapCore;
 
